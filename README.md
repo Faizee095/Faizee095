@@ -43,7 +43,7 @@
 <br />
 
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faizee095)](https://github.com/Faizee095/github-readme-stats)
+[![Faizee095 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faizee095)](https://github.com/Faizee095/github-readme-stats)
 
 ---
 <details>
