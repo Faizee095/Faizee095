@@ -44,7 +44,8 @@
 <br />
 
 ---
-[![Faizee095 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faizee095)](https://github.com/Faizee095/github-readme-stats)
+<!-- [![Faizee095 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faizee095)](https://github.com/Faizee095/github-readme-stats) -->  
+<!-- just watch a wakatime video -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizee095&layout=compact)](https://github.com/Faizee09/github-readme-stats)
 
 ---
