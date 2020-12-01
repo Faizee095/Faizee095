@@ -44,16 +44,14 @@
 <br />
 
 ---
-<!-- [![Faizee095 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faizee095)](https://github.com/Faizee095/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizee095&layout=compact)](https://github.com/Faizee09/github-readme-stats) -->
+[![Faizee095 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faizee095)](https://github.com/Faizee095/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizee095&layout=compact)](https://github.com/Faizee09/github-readme-stats)
 
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Faizee095 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faizee095&show_icons=true&hide_border=true&theme=dark" />
-
-  <img align="left" alt="Faizee095 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/ ? Username = Faizee095 & layout = compact " />
 
 </details>
 
