@@ -10,6 +10,7 @@
 - 👯 I’m looking to be Full Stack Developer.
 - 🥅 2020 Goals: Work on as many projects as possible.
 - ⚡ Fun fact: I am a Engineer.
+- 🎧 How to reach me --faiyazsiddique9@gmail.com
 
 <!-- ### Spotify Playing 🎧
 
