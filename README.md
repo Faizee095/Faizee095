@@ -53,6 +53,7 @@
 
   <img align="left" alt="Faizee095 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faizee095&show_icons=true&hide_border=true&theme=dark" />
 
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = Faizee095 & layout = compact )] (https://github.com/Faizee095/github-readme- stats)
 </details>
 
 [website]: https://faizee095.github.io/.
