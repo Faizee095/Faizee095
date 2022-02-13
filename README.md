@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on javascript.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to be Full Stack Developer.
-- 🥅 2020 Goals: Work on as many projects as possible.
+- 🥅 2022 Goals: Work on as many projects as possible.
 - ⚡ Fun fact: I am a Engineer.
 - 🎧 How to reach me --faiyazsiddique9@gmail.com
 
