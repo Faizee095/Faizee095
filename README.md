@@ -5,10 +5,10 @@
 
 ## I'm a Student ,Learner and Conscientious!!
 
-- 🔭 I'm currently working on javascript.
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently working as a Software Developer.
+- 🌱 I’m currently learning DSA and OS.
 - 👯 I’m looking to be Full Stack Developer.
-- 🥅 2022 Goals: Work on as many projects as possible.
+- 🥅 2023 Goals: Work on as many projects as possible.
 - ⚡ Fun fact: I am a Engineer.
 - 🎧 How to reach me --faiyazsiddique9@gmail.com
 
