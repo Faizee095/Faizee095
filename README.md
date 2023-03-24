@@ -1,6 +1,6 @@
 ### Hi there, This is Md Faiyazuddin - aka [Faizee095][website] 👋
 
-[![Website](https://img.shields.io/website?label=faizee095.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://faizee095.github.io/.)
+[![Website](https://img.shields.io/website?label=faizee095.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://md-faiyazuddin.netlify.app/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a Student ,Learner and Conscientious!!
@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://faizee095.github.io/." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://md-faiyazuddin.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Md Faiyazuddin Siddique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -57,6 +57,6 @@
 
 </details>
 
-[website]: https://faizee095.github.io/.
+[website]: https://md-faiyazuddin.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-faiyazuddin-siddique-244a73192/
 
